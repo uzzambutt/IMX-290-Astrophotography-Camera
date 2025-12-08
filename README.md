@@ -6,6 +6,7 @@
 1: Uses Sony IMX290 IR-CUT Imaging sensor
 2: Features active cooling to keep the computer and especially the camera sensor cool
 3: Has an inbuilt Computer to streamline the image processing 
+4: Uses OTG to connect to an external computer for live preview
 ```
 ## Images
 Sensor Holding Plate:
