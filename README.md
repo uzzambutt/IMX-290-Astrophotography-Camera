@@ -8,6 +8,13 @@
 3: Has an inbuilt Computer to streamline the image processing 
 4: Uses OTG to connect to an external computer for live preview
 ```
+
+## Working
+1: Sensor Tray: its used to hold the camera sensor to the front of the camera nozzle so the camera stays fixed.
+2: Body: used to hold the computer and Sensors together.
+3: Back ring: used to hold the back plate to the body.
+4: Back Plate: used to hold the 30mm fan for active air cooling.
+
 ## Images
 Sensor Holding Plate:
 ![img](https://github.com/uzzambutt/IMX-290-Astrophotography-Camera/blob/main/src/image_2025-12-08_142417553.png)
