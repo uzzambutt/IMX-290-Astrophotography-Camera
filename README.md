@@ -1,6 +1,8 @@
 # IMX-290-Astrophotography-Camera
 > Its a custom astro imaging camera using the IMX 290-IR CUT Sensor connected to a Raspberry Pi zero W2 as the onboard computer.
 
+***There is NO Firmware needed for this camera as its software controlled***
+
 ## Features
 ```
 1: Uses Sony IMX290 IR-CUT Imaging sensor
