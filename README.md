@@ -1,7 +1,7 @@
 # IMX-290-Astrophotography-Camera
 > Its a custom astro imaging camera using the IMX 290-IR CUT Sensor connected to a Raspberry Pi zero W2 as the onboard computer.
 
-***There is NO Firmware needed for this camera as its software controlled***
+***There is NO Firmware needed for this camera as its software controlled. Check /Firmware/readme.md for download link for the software.***
 
 ## Features
 ```
@@ -34,5 +34,8 @@ Enclosure Side:
 Enclosure Front/Top:
 ![img](https://github.com/uzzambutt/IMX-290-Astrophotography-Camera/blob/main/src/image_2025-12-08_142440306.png)
 
+Wiring Diagram:
+![img]
+(https://github.com/uzzambutt/IMX-290-Astrophotography-Camera/blob/main/IMG_20260208_133757.jpg)
 
 Made for the blueprint submition: [Blueprint](https://blueprint.hackclub.com/projects/5563)
