@@ -18,6 +18,13 @@
 3: Back ring: used to hold the back plate to the body.
 4: Back Plate: used to hold the 30mm fan for active air cooling.
 ```
+## Usage Instructions 
+```
+1. Connect the raspberry Pi to a computer via an OTG cable.
+2. Install sharpcap on computer and connect your camera with it.
+3. enjoy live video feed!
+```
+
 ## Images
 Sensor Holding Plate:
 ![img](https://github.com/uzzambutt/IMX-290-Astrophotography-Camera/blob/main/src/image_2025-12-08_142417553.png)
