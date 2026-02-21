@@ -42,8 +42,7 @@ Enclosure Front/Top:
 ![img](https://github.com/uzzambutt/IMX-290-Astrophotography-Camera/blob/main/src/image_2025-12-08_142440306.png)
 
 Wiring Diagram:
-![img]
-(https://github.com/uzzambutt/IMX-290-Astrophotography-Camera/blob/main/IMG_20260208_133757.jpg)
+![img](https://github.com/uzzambutt/IMX-290-Astrophotography-Camera/blob/main/IMG_20260221_164848.jpg)
 
 BOM:
 | Item_ID | Part_Number | Description | Quantity | Unit_Cost_Estimate | Total_Cost_Estimate | Manufacturer_Supplier |
