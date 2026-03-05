@@ -45,14 +45,16 @@ Wiring Diagram:
 ![img](https://github.com/uzzambutt/IMX-290-Astrophotography-Camera/blob/main/IMG_20260221_164848.jpg)
 
 BOM:
+
 | Item_ID | Part_Number | Description | Quantity | Unit_Cost_Estimate | Total_Cost_Estimate | Manufacturer_Supplier |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | IMX290-MOD | Sony IMX290 Camera Module (or compatible board) | 1 | 40.00 | 40.00 | ArduCAM/Waveshare |
-| 2 | SC0352 | Raspberry Pi Zero 2 W | 1 | 15.00 | 25.00 | Raspberry Pi Foundation |
-| 3 | HS-RPi-Z2 | Heatsink for Raspberry Pi Zero 2 W (small adhesive copper/aluminum) | 1 | 5.00 | 3.00 | Generic |
+| 1 | IMX290-MOD | Sony IMX290 Camera Module | 1 | 40.00 | 40.00 | [AliExpress](https://a.aliexpress.com/_c2QmWf2P) |
+| 2 | SC0352 | Raspberry Pi Zero 2 W | 1 | 15.00 | 25.00 | [AliExpress](https://a.aliexpress.com/_c3kVF7KJ) |
+| 3 | HS-RPi-Z2 | Heatsink for Raspberry Pi Zero 2 W | 1 | 5.00 | 3.00 | Generic |
 | 4 | FAN-30MM-5V | 30mm x 30mm x 7mm 5V DC Fan | 1 | 5.00 | 5.00 | Generic |
-| 5 | CABLE-FAN-JST | JST-PH or equivalent cable/connector for fan (RPi GPIO) | 1 | 1.00 | 1.00 | Generic |
-| 6 | SD-16GB-C10 | MicroSD Card 16GB minimum Class 10 or better | 1 | 8.00 | 8.00 | SanDisk/Samsung |
+| 5 | CABLE-CAM-FPC | FPC or equivalent cable/connector | 1 | 3.00 | 3.00 | [AliExpress](https://a.aliexpress.com/_c3RoJItt) |
+| 6 | SD-16GB-C10 | MicroSD Card 16GB Class 10 | 1 | 8.00 | 8.00 | SanDisk/Samsung |
+
 
 *(Items dont have links because these are general items and the individual price is already in the screenshots. everyone knows the prices for these already)*
 
