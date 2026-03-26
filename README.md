@@ -25,6 +25,19 @@
 3. enjoy live video feed!
 ```
 
+## Assembly
+```
+1. Take the camera tray and insert the IMX 290 Camera with its connector facing towards the FPC cable slit.
+2. Screw the camera down via the back side with any available screws
+3. Take the FPC cable and insert it from the outside into the camera connector.
+4. Glue the camera tray onto the nose tube with the exposed camera sensor being exactly in the middle of the tube.
+5. connect the FPC cable with the Raspberry Pi Zero.
+6. Take the Active cooling fan and screw it on the backplate with the wires going inwards.
+7. Connect the Fan wires to the raspberry pi via any GPIO pin.
+8. Pass an OTG cable from the backplate Cable Slit and connect it to the RPi MicroUSB
+9. Glue on the Backplate ring and along with it the backplate too.
+```
+
 ## Images
 Sensor Holding Plate:
 ![img](https://github.com/uzzambutt/IMX-290-Astrophotography-Camera/blob/main/src/image_2025-12-08_142417553.png)
